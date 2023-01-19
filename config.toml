@@ -1,3 +1,31 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://ok1cdj.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'New blog of OK1CDJ'
+theme = 'beautifulhugo'
+
+[Params]
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+
+[Author]
+  # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
+  name = "Ondřej Koloničný"
+  email = "ondra@ok1cdj.com"
+  facebook = "ok1cdj"
+  github = "ok1cdj"
+  twitter = "ok1cdj"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
