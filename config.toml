@@ -12,6 +12,8 @@ theme = 'beautifulhugo'
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+  logo = "/cdj.jpg"
+  favicon = "/favicon.ico"
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")

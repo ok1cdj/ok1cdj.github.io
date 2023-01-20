@@ -1,6 +1,7 @@
 ---
-title: "First Blog"
+title: "First Blog post"
 date: 2023-01-19T10:34:54+01:00
-tags: ["testing"]
 ---
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+From 2006 till 2018 I had my [Ham Radio blog](https://blog.ok1cdj.com) on  blogger in Czech Language. Then I was active only on [twitter](https://twitter.com/ok1cdj).
+I decided to restart my publication about my current projects. The blog will be in English only and there will be longer technical articles. News about propagation, QSOs, and contests will be kept
+on twitter.
