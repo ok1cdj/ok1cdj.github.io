@@ -1,4 +1,4 @@
-baseURL = 'http://ok1cdj.github.io/'
+baseURL = 'https://lively-river-0367db203.2.azurestaticapps.net/'
 languageCode = 'en-us'
 title = 'New blog of OK1CDJ'
 theme = 'beautifulhugo'
