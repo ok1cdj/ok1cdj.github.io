@@ -2,10 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ok1cdj.github.io/categories/</loc>
+    <loc>https://www.ok1cdj.com/posts/first-blog/</loc>
+    <lastmod>2023-01-19T10:34:54+01:00</lastmod>
   </url><url>
-    <loc>http://ok1cdj.github.io/</loc>
+    <loc>https://www.ok1cdj.com/</loc>
+    <lastmod>2023-01-19T10:34:54+01:00</lastmod>
   </url><url>
-    <loc>http://ok1cdj.github.io/tags/</loc>
+    <loc>https://www.ok1cdj.com/posts/</loc>
+    <lastmod>2023-01-19T10:34:54+01:00</lastmod>
+  </url><url>
+    <loc>https://www.ok1cdj.com/categories/</loc>
+  </url><url>
+    <loc>https://www.ok1cdj.com/tags/</loc>
   </url>
 </urlset>

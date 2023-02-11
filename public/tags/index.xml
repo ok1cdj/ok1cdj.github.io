@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on New blog og OK1CDJ/OL0M/SV0SYH</title>
-    <link>http://ok1cdj.github.io/tags/</link>
-    <description>Recent content in Tags on New blog og OK1CDJ/OL0M/SV0SYH</description>
+    <title>Tags on New blog of OK1CDJ</title>
+    <link>https://www.ok1cdj.com/tags/</link>
+    <description>Recent content in Tags on New blog of OK1CDJ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://ok1cdj.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <managingEditor>ondra@ok1cdj.com (Ondřej Koloničný)</managingEditor>
+    <webMaster>ondra@ok1cdj.com (Ondřej Koloničný)</webMaster><atom:link href="https://www.ok1cdj.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
