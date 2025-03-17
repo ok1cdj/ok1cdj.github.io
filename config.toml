@@ -15,7 +15,7 @@ theme = 'beautifulhugo'
   logo = "/cdj.jpg"
   favicon = "/favicon.ico"
 
-[Author]
+[params.author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Ondřej Koloničný"
   email = "ondra@ok1cdj.com"

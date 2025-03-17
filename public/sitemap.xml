@@ -2,17 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.ok1cdj.com/posts/first-blog/</loc>
+    <loc>http://localhost:1313/tags/23cm/</loc>
+    <lastmod>2023-02-07T15:33:08+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/3dprint/</loc>
+    <lastmod>2023-02-07T15:33:08+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/antenna/</loc>
+    <lastmod>2023-02-07T15:33:08+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/dg7ybn_9el_yagi_antenna_for_23cm/</loc>
+    <lastmod>2023-02-07T15:33:08+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-02-07T15:33:08+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-02-07T15:33:08+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-02-07T15:33:08+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/template/</loc>
+    <lastmod>2023-01-20T11:59:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/testing/</loc>
+    <lastmod>2023-01-20T11:59:15+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/first-blog/</loc>
     <lastmod>2023-01-19T10:34:54+01:00</lastmod>
   </url><url>
-    <loc>https://www.ok1cdj.com/</loc>
-    <lastmod>2023-01-19T10:34:54+01:00</lastmod>
-  </url><url>
-    <loc>https://www.ok1cdj.com/posts/</loc>
-    <lastmod>2023-01-19T10:34:54+01:00</lastmod>
-  </url><url>
-    <loc>https://www.ok1cdj.com/categories/</loc>
-  </url><url>
-    <loc>https://www.ok1cdj.com/tags/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>
