@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Antenna on New blog of OK1CDJ</title>
-    <link>http://localhost:1313/tags/antenna/</link>
+    <link>https://www.ok1cdj.com/tags/antenna/</link>
     <description>Recent content in Antenna on New blog of OK1CDJ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Feb 2023 15:33:08 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/antenna/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ok1cdj.com/tags/antenna/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DG7YBN 9el. Yagi Antenna for 23cm</title>
-      <link>http://localhost:1313/posts/dg7ybn_9el_yagi_antenna_for_23cm/</link>
+      <link>https://www.ok1cdj.com/posts/dg7ybn_9el_yagi_antenna_for_23cm/</link>
       <pubDate>Tue, 07 Feb 2023 15:33:08 +0100</pubDate>
-      <guid>http://localhost:1313/posts/dg7ybn_9el_yagi_antenna_for_23cm/</guid>
-      <description>&lt;p&gt;A short and easy to build 23 cm Yagi designed by  &lt;a href=&#34;http://dg7ybn.de/1296MHz/YBN23_9m.htm&#34;&gt;DG7YBN&lt;/a&gt; that provides a clean pattern and almost 14 dBi of gain.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/YBN23_9m_by_OK1CDJ_Ant.jpg&#34; alt=&#34;Antenna&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Boom is 3D printed to avoid mistakes with drilling and is divided to 2 parts for fit 3D printers bed.&lt;/p&gt;&#xA;&lt;p&gt;Super glue is used to glue parts togther and joint.stl is used to fix connection.&lt;/p&gt;&#xA;&lt;p&gt;Elements are from &lt;strong&gt;3.2 mm&lt;/strong&gt; Al welding rods. Dipole is from &lt;strong&gt;4 mm&lt;/strong&gt; brass rod.&lt;/p&gt;</description>
+      <guid>https://www.ok1cdj.com/posts/dg7ybn_9el_yagi_antenna_for_23cm/</guid>
+      <description>&lt;p&gt;A short and easy to build 23 cm Yagi designed by  &lt;a href=&#34;http://dg7ybn.de/1296MHz/YBN23_9m.htm&#34;&gt;DG7YBN&lt;/a&gt; that provides a clean pattern and almost 14 dBi of gain.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.ok1cdj.com/img/YBN23_9m_by_OK1CDJ_Ant.jpg&#34; alt=&#34;Antenna&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Boom is 3D printed to avoid mistakes with drilling and is divided to 2 parts for fit 3D printers bed.&lt;/p&gt;&#xA;&lt;p&gt;Super glue is used to glue parts togther and joint.stl is used to fix connection.&lt;/p&gt;&#xA;&lt;p&gt;Elements are from &lt;strong&gt;3.2 mm&lt;/strong&gt; Al welding rods. Dipole is from &lt;strong&gt;4 mm&lt;/strong&gt; brass rod.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

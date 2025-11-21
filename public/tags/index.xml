@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on New blog of OK1CDJ</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.ok1cdj.com/tags/</link>
     <description>Recent content in Tags on New blog of OK1CDJ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.ok1cdj.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>6m</title>
-      <link>http://localhost:1313/tags/6m/</link>
+      <link>https://www.ok1cdj.com/tags/6m/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/6m/</guid>
+      <guid>https://www.ok1cdj.com/tags/6m/</guid>
       <description></description>
     </item>
     <item>
       <title>CW</title>
-      <link>http://localhost:1313/tags/cw/</link>
+      <link>https://www.ok1cdj.com/tags/cw/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cw/</guid>
+      <guid>https://www.ok1cdj.com/tags/cw/</guid>
       <description></description>
     </item>
     <item>
       <title>DX</title>
-      <link>http://localhost:1313/tags/dx/</link>
+      <link>https://www.ok1cdj.com/tags/dx/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dx/</guid>
+      <guid>https://www.ok1cdj.com/tags/dx/</guid>
       <description></description>
     </item>
     <item>
       <title>DXpedition</title>
-      <link>http://localhost:1313/tags/dxpedition/</link>
+      <link>https://www.ok1cdj.com/tags/dxpedition/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dxpedition/</guid>
+      <guid>https://www.ok1cdj.com/tags/dxpedition/</guid>
       <description></description>
     </item>
     <item>
       <title>FT8</title>
-      <link>http://localhost:1313/tags/ft8/</link>
+      <link>https://www.ok1cdj.com/tags/ft8/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ft8/</guid>
+      <guid>https://www.ok1cdj.com/tags/ft8/</guid>
       <description></description>
     </item>
     <item>
       <title>Hamradio</title>
-      <link>http://localhost:1313/tags/hamradio/</link>
+      <link>https://www.ok1cdj.com/tags/hamradio/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hamradio/</guid>
+      <guid>https://www.ok1cdj.com/tags/hamradio/</guid>
       <description></description>
     </item>
     <item>
       <title>QO-100</title>
-      <link>http://localhost:1313/tags/qo-100/</link>
+      <link>https://www.ok1cdj.com/tags/qo-100/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/qo-100/</guid>
+      <guid>https://www.ok1cdj.com/tags/qo-100/</guid>
       <description></description>
     </item>
     <item>
       <title>RS-44</title>
-      <link>http://localhost:1313/tags/rs-44/</link>
+      <link>https://www.ok1cdj.com/tags/rs-44/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rs-44/</guid>
+      <guid>https://www.ok1cdj.com/tags/rs-44/</guid>
       <description></description>
     </item>
     <item>
       <title>23cm</title>
-      <link>http://localhost:1313/tags/23cm/</link>
+      <link>https://www.ok1cdj.com/tags/23cm/</link>
       <pubDate>Tue, 07 Feb 2023 15:33:08 +0100</pubDate>
-      <guid>http://localhost:1313/tags/23cm/</guid>
+      <guid>https://www.ok1cdj.com/tags/23cm/</guid>
       <description></description>
     </item>
     <item>
       <title>3DPrint</title>
-      <link>http://localhost:1313/tags/3dprint/</link>
+      <link>https://www.ok1cdj.com/tags/3dprint/</link>
       <pubDate>Tue, 07 Feb 2023 15:33:08 +0100</pubDate>
-      <guid>http://localhost:1313/tags/3dprint/</guid>
+      <guid>https://www.ok1cdj.com/tags/3dprint/</guid>
       <description></description>
     </item>
     <item>
       <title>Antenna</title>
-      <link>http://localhost:1313/tags/antenna/</link>
+      <link>https://www.ok1cdj.com/tags/antenna/</link>
       <pubDate>Tue, 07 Feb 2023 15:33:08 +0100</pubDate>
-      <guid>http://localhost:1313/tags/antenna/</guid>
+      <guid>https://www.ok1cdj.com/tags/antenna/</guid>
       <description></description>
     </item>
   </channel>
