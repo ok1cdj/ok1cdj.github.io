@@ -2,6 +2,7 @@ baseURL = 'https://www.ok1cdj.com'
 languageCode = 'en-us'
 title = 'New blog of OK1CDJ'
 theme = 'beautifulhugo'
+summaryLength = 100
 
 [Params]
   rss = true
